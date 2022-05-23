@@ -1,20 +1,3 @@
-
-Meet
-New meeting
-Join a meeting
-Hangouts
-
-1 of 8,101
-(no subject)
-Inbox
-
-Owen Hines
-Attachments
-12:12 AM (0 minutes ago)
-to me
-
-
-Attachments area
 from tkinter import *
 from tkinter import messagebox
 from tkinter import ttk
